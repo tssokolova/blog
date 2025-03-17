@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Машинное обучение
+  - Финансовая математика
+  - Путешествия
+  - Волейбол
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю математику и механику, интересуюсь аналитикой данных и математическим моделированием.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Изучаю высшую математику, механику и программирование.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,39 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Основы программирования и анализ данных
+        percent: 65
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: MATLAB
+        description: Использую для математического моделирования
+        percent: 50
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Анализ данных
+        description: Интересуюсь обработкой данных и статистикой
+        percent: 55
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
-        percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+      - name: Чтение научно-популярных книг
+        description: Интересуюсь математикой, физикой и технологиями
+        percent: 85
+      - name: Волейбол
+        description: Играю в свободное время
+        percent: 90
+      - name: Путешествия
+        description: Люблю открывать новые места
+        percent: 70
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 70
+  - name: Немецкий
+    percent: 40
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
